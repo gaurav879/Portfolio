@@ -8,7 +8,7 @@ const Home = () => {
             <p>
                 I am a software developer and competitive coder currently studying at IIIT Gwalior
                 <br />
-                I'm also the Coding Event Co-ordinator for the AASF, our institution's techno-managerial forum
+                I&apos;m also the Coding Event Co-ordinator for the AASF, our institution&apos;s techno-managerial forum
                 <br />
                 I spend my time programming, binging shows, listening to songs and playing games
                 <br />
